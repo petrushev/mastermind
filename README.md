@@ -1,4 +1,0 @@
-mastermind
-==========
-
-Mastermind - the game
